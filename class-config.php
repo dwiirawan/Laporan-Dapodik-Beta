@@ -1,5 +1,3 @@
-Laporan-Dapodik
-===============
 <?php
 class Config {
  
